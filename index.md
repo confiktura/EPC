@@ -1,6 +1,6 @@
-#Bias and fallacy references
+# Bias and fallacy references
 
-##Negativity bias
+## Negativity bias
 
 - [What is negativity bias ?](https://www.verywellmind.com/negative-bias-4589618)
 - [What is negativity bias ? with examples](https://www.youtube.com/watch?v=E09077HRurg)
@@ -9,7 +9,7 @@
 - [Negativity bias and how to minimize its effects](https://www.strengthscope.com/the-negativity-bias/)
 - [Origin of negativity bias](https://gostrengths.com/animation/negativity-bias-the-origin/)
 
-##Loaded question fallacy
+## Loaded question fallacy
 - [What is loaded question fallacy?](https://youtu.be/LMivfBEEYLQ)
 - [Explanation and examples of loaded question fallacy](https://www.logicallyfallacious.com/cgi-bin/uy/webpages.cgi?/logicalfallacies/Complex-Question-Fallacy)
 - [Examples of loaded question fallacy](https://effectiviology.com/loaded-question/)
