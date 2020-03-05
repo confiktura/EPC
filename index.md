@@ -11,7 +11,7 @@
 - [Origin of negativity bias](https://gostrengths.com/animation/negativity-bias-the-origin/)
 
 ## Loaded question fallacy
-![loaded-question](https://user-images.githubusercontent.com/61852008/76035689-ba894b80-5f4a-11ea-9ca6-0168dfc4f813.png)
+![loaded-question](https://user-images.githubusercontent.com/30466254/76035788-00461400-5f4b-11ea-9eee-c2347d66a48a.png)
 
 - [What is loaded question fallacy?](https://youtu.be/LMivfBEEYLQ)
 - [Explanation and examples of loaded question fallacy](https://www.logicallyfallacious.com/cgi-bin/uy/webpages.cgi?/logicalfallacies/Complex-Question-Fallacy)
