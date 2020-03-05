@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+#Bias and fallacy references
 
-You can use the [editor on GitHub](https://github.com/confiktura/EPC/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##Negativity bias
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[What is negativity bias ?](https://www.verywellmind.com/negative-bias-4589618)
+[What is negativity bias ? with examples](https://www.youtube.com/watch?v=E09077HRurg)
+[What is negativity bias ?](https://www.psycom.net/negativity-bias )
+[What is negativity bias ?](https://gostrengths.com/what-is-the-negativity-bias/)
+[Negativity bias and how to minimize its effects](https://www.strengthscope.com/the-negativity-bias/)
+[Origin of negativity bias](https://gostrengths.com/animation/negativity-bias-the-origin/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/confiktura/EPC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##Loaded question fallacy
+[What is loaded question fallacy?](https://youtu.be/LMivfBEEYLQ)
+[Explanation and examples of loaded question fallacy](https://www.logicallyfallacious.com/cgi-bin/uy/webpages.cgi?/logicalfallacies/Complex-Question-Fallacy)
+[Examples of loaded question fallacy](https://effectiviology.com/loaded-question/)
+[Examples of loaded question fallacy](https://www.fallacyfiles.org/loadques.html)
+[Examples of loaded question fallacy](https://www.quora.com/What-are-some-examples-of-loaded-questions)
+[Examples of loaded question fallacy](http://believingscience.blogspot.com/2015/07/todays-logical-fallacy-is-complex.html)
